@@ -2,8 +2,9 @@
 <h1 align="center">Hola 👋, Soy Leo Balonchard</h1>
 <h3 align="center">Soy de la ciudad de Rosario, Argentina!</h2><br>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611307bbf94ef03172f97c2d3b19195fc2526f6672f&rid=giphy.gif&ct=g">
-<br>
+
 - 🌱 Actualmente me encuentro desempeñando el rol de Frontend Developer en la empresa GeoAgro by TEK, la cual se dedica a ofrecer soluciones tecnológicas innovadoras en el sector agrícola con el fin de lograr una agricultura más eficiente, rentable y sustentable.
+
 - 📫 Podes contactarme en **balonchard68@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
