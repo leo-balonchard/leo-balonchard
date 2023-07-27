@@ -3,10 +3,9 @@
 <h3 align="center">Soy de la ciudad de Rosario, Argentina!</h2><br>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611307bbf94ef03172f97c2d3b19195fc2526f6672f&rid=giphy.gif&ct=g">
 <br>
-- 🌱 Actualmente me encuentro desempeñando el rol de Frontend Developer en la empresa GeoAgro by TEK, la cual se dedica a ofrecer soluciones tecnológicas innovadoras en el sector agrícola con el fin de lograr una agricultura más eficiente, rentable y sustentable.<br>
-
+- 🌱 Actualmente me encuentro desempeñando el rol de Frontend Developer en la empresa GeoAgro by TEK, la cual se dedica a ofrecer soluciones tecnológicas innovadoras en el sector agrícola con el fin de lograr una agricultura más eficiente, rentable y sustentable.
 - 📫 Podes contactarme en **balonchard68@hotmail.com**
-
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/leonardo-balonchard-795421203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-balonchard-795421203/" height="30" width="40" /></a>
